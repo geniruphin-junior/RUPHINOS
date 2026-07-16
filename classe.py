@@ -19,7 +19,3 @@ class Ruphin:
 
     def mission(self):
         return "Build software that solves real-world problems."
-
-
-ruphin = Ruphin().location()
-print(ruphin)
