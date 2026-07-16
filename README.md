@@ -30,3 +30,11 @@ ou si vous preferez vous pouvez le transformer en app executable c'est plus prat
 ```bash
 pyinstaller --noconsole --onefile --windowed --icon=yourimage.ico --name="your name" os.py
 ```
+
+## Contributions
+
+Principalement cet outils est fait pour etre une base si un jour vous voulez faire un terminal,car vous pouvez y ajouter des fonctionnalitées et des raccourcis mais si vous trouvez un bug ou vous voulez y contribuer n'hésitez pas car c'est un plaisir pour nous.
+
+## ⭐ Soutenir le projet
+
+Si un jour ce projet vous aide ou vous ai utile laissez un petit ⭐ pour me soutenir, mmerci.
