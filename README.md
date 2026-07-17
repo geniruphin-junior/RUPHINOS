@@ -4,7 +4,7 @@
 
 ## Aperçue
 
-![Accueil](terminal.png)
+![Démo](terminal.png)
 
 ## ✨ Fonctionnalités
 
